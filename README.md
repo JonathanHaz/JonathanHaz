@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00B8F7&background=FFFFFF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=%3CHello+World%3E+I'm;Jonathan+Hazan" alt="Typing SVG" />
 </h1>
