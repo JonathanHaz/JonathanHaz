@@ -31,10 +31,10 @@
 <h2 align="center">⚒️ Languages Frameworks Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github," />
+    <img src="https://skillicons.dev/icons?i=react,html,css,javascript,typescript," />
  <br/>
  <br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,nextjs,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,nextjs" /><br>
 </div>
 
 <br/>
