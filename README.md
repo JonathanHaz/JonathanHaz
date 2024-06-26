@@ -8,8 +8,6 @@
 <br/>
 
 <div align="center">
- 
- 🌱 I’m currently learning **Postgresql, NextJS**
 
 ⚡ Fun fact **The hashtag symbol (#) used to be called an "octothorpe."**
 
@@ -34,7 +32,7 @@
     <img src="https://skillicons.dev/icons?i=react,html,css,javascript,typescript" />
  <br/>
  <br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,nextjs,prisma" /><br>
 </div>
 
 <br/>
