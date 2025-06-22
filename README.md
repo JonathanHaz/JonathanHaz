@@ -26,7 +26,7 @@
 
 <br/>
 <div align="center">
-  <a href="https://next-portfolio-eight-wine-12.vercel.app/">
+  <a href="https://jonathanhazan.dev/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" />
   </a>
 </div>
